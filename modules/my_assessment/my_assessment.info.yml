@@ -1,0 +1,9 @@
+name: 'My Assessment'
+type: module
+description: 'Custom work around User Registration'
+package: custom
+core_version_requirement: ^8 || ^9
+dependencies:
+  - drupal:node
+  - drupal:system
+  - drupal:user
